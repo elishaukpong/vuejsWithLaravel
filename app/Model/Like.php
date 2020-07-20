@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Migration;
+namespace App\Model;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Bank extends Model
+class Like extends Model
 {
     //
 }
